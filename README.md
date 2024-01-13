@@ -1,0 +1,1 @@
+Minimal repo for typescript projects with basic eslint and prettier configuration.

@@ -1,0 +1,9 @@
+{
+  "watch": ["src", ".env"],
+  "ext": "ts,json",
+  "events": {
+    "start": "clear"
+  },
+  "delay": 800,
+  "exec": "yarn run start"
+}
